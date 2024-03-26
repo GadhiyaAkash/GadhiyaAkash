@@ -39,7 +39,7 @@
 
 ## 🌱 Currently Learning: 
 <ul>
-     <li>React Nativ</li>
+     <li>React Native</li>
     <li>Vue JS</li>
 </ul>
 

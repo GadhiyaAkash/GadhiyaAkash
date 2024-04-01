@@ -1,5 +1,3 @@
-# ![Profile views](https://gpvc.arturio.dev/GadhiyaAkash)
-
 ## Hey :wave: Nice to see you.
 
 <p>Welcome to my page! </br> I'm Akash Gadhiya, As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high-growth company. </p>

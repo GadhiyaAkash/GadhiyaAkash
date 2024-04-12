@@ -1,6 +1,10 @@
 ## Hey :wave: Nice to see you.
 
-<p>Welcome to my page! </br> I'm Akash Gadhiya, As a web developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world. That's why I’m excited to make a big impact at a high-growth company. </p>
+<p>As a Frontend Developer, I have a proven track record of delivering high-quality web applications using cutting-edge technologies. I have extensive knowledge and experience in AngularJS, ReactJS and React native frameworks, as well as JavaScript, JQuery, HTML5, CSS, Bootstrap, Material Design, and other web development tools. 
+
+I am adept at using various build tools, such as Gulp, Grunt, Jasmin, Karma, NPM, and bower to optimize the performance and functionality of my web projects. I am also well-versed in agile methodology and project management tools, such as GitHub, Gitlab, and Jira, to ensure effective collaboration and communication with my team and clients. 
+
+I am always eager to learn new skills and take on new challenges in the web development field.</p>
 
 ## :sunglasses:  About Me:
 <ul>

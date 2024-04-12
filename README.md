@@ -18,19 +18,16 @@ I am always eager to learn new skills and take on new challenges in the web deve
 ## 🔧 Technologies & Tools I code with:
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Reactnative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 <br>
 
 ## &#x1f4c8; GitHub Stats:
@@ -41,8 +38,7 @@ I am always eager to learn new skills and take on new challenges in the web deve
 
 ## 🌱 Currently Learning: 
 <ul>
-     <li>React Native</li>
-    <li>Vue JS</li>
+     <li>Node Js</li>
 </ul>
 
 ## 💬 Ask me about: 
@@ -56,7 +52,3 @@ I am always eager to learn new skills and take on new challenges in the web deve
 ## 📫 Get in touch
 [![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:akashpatel1101@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Akash%20Gadhiya-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/akashgadhiya/) 
-[![StackOverflow](https://img.shields.io/badge/-Akash%20Gadhiya-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/9514608/akash-gadhiya) 
-[![Twitter](https://img.shields.io/badge/-Akash%20Gadhiya-black?style=for-the-badge&logo=twitter)](https://twitter.com/AkashGadhiya_) 
-[![Instagram](https://img.shields.io/badge/-Akash%20Gadhiya-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/akashgadhiya1995/)
-[![Quora](https://img.shields.io/badge/-Akash%20Gadhiya-red?style=for-the-badge&logo=quora)](https://www.quora.com/profile/Akash-Gadhiya-3)
